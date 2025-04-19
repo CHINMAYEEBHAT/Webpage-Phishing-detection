@@ -63,7 +63,7 @@
 ### 🔄 Clone the Repository
 
 ```bash
-git clone https://github.com/Deeksha-R-Kunder/Webpage-Phishing-detection.git
+git clone https://github.com/CHINMAYEEBHAT/Webpage-Phishing-detection.git
 cd Webpage-Phishing-detection
 ```
 
