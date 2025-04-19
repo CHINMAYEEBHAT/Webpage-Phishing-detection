@@ -17,7 +17,7 @@
 - 🧠 Built on a **Random Forest Classifier** with 93.44% accuracy
 - 💡 Clean and responsive web interface
 - ⚡ Instant predictions with animation effects for better UX
-- 📱 Mobile-friendly layout.
+- 📱 Mobile-friendly layout
 
 ---
 
