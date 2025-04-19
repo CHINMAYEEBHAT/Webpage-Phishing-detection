@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**PhishGuard** is a lightweight, intelligent phishing detection web app that uses machine learning to classify websites as either *Safe* or *Phishing*. With an intuitive user interface and a robust backend model, it empowers users to identify potential threats in real-time by simply submitting a URL.
+**PhishGuard** is a lightweight, intelligent phishing detection website that uses machine learning to classify websites as either *Safe* or *Phishing*. With an intuitive user interface and a robust backend model, it empowers users to identify potential threats in real-time by simply submitting a URL.
 
 ---
 
